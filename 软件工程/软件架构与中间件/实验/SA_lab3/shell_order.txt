@@ -1,1 +1,0 @@
-mysqld_exporter.exe --config.my-cnf=exporter.ini
